@@ -1,0 +1,60 @@
+// STRINGS USED IN UI
+const strings = {
+  healthDashborad: 'Health Dashboard',
+  weight: 'Weight',
+  other: 'Other - Leg infection',
+  healthTracker: 'Health Tracker',
+  services: 'Services',
+  titleServices: 'Pharmaceuticals to get your pet feeling better. Prescription needed.',
+  categoryServices: 'Lorem Ipsum iscdd  foren simply dummy text',
+  selectVet: 'Select a vet',
+  titleVet: 'Find someone who specialises in your pet.',
+  availDocs: '15 available doctors',
+  docName: 'Dr. Mark Wayne',
+  docSpl: 'Nutritionist',
+  address: 'Egmore, Chennai',
+  book: 'Book Consultation',
+  details: 'Details', clinicAdd: 'Clinic Address',
+  clinicAddress: '12, 1st road' + '\n' + 'Egmore main street, Dawkar Nagar' + '\n' + 'Chennai -435345',
+  about: 'About',
+  loream: 'In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document used to demonstrate the visual form of a document ',
+  email: 'Email ID',
+  mail: 'shankarkumar@email.com',
+  contactNo: 'Contact Number',
+  contactNum: '403-949-6478',
+  experience: 'Experience',
+  years: '2 Years',
+  consultType: 'Consultation Type Available',
+  type: 'Video, Physical',
+  selectType: 'Select Consulatation Type',
+  reason: 'Reason for Consultation',
+  next: 'Next',
+  selectDate:'Select Date',
+  availSlot:'Available Slot',
+  description:'Description',
+  checkOut:'Checkout',
+  upload:'Upload Prescription or Report',
+  uploadtext:'Upload JPEG or PDF File',
+  conDetails:'Consultation details',
+  paymentSummary:'Payment summary', 
+  makePayment:'Make Payment',
+
+  // Articles
+  info:'Information',
+  recommend:'Recommend Articles',
+  seeAll:'See All',
+  healthy:'How to maintain a healthy routine',
+  essential:'Essential Puppy care',
+  healthArticle:'Health Articles',
+  articleLoream:'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
+  mostPopular:'Most Popular Articles',
+  loreamArticle:'Lorem Ipsum is simply dummy text of the printing and typesetting industry.  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
+  relatedArticle:'Related Articles'
+};
+
+const placeholders = {
+  enterEmail: 'Enter your Email',
+  enterPassword: 'Enter your Password',
+};
+
+export { strings, placeholders };

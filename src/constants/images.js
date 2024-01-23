@@ -1,0 +1,25 @@
+const commonImagePath = {
+  background: require('../assets/images/background.png'),
+  home: require('../assets/images/home.png'),
+  shop: require('../assets/images/shop.png'),
+  paw: require('../assets/images/paw.png'),
+  profile: require('../assets/images/profile.png'),
+  book: require('../assets/images/book.png'),
+  vector: require('../assets/images/Vector.png'),
+  digestion: require('../assets/images/digestion.png'),
+  vaccine: require('../assets/images/vaccine.png'),
+  other: require('../assets/images/other.png'),
+  grooming: require('../assets/images/grooming.png'),
+  eyeImg: require('../assets/images/eyeImg.png'),
+  pawImg: require('../assets/images/pawImg.png'),
+  weight: require('../assets/images/weight.png'),
+  veterinairian: require('../assets/images/Veterinarian.png'),
+  groomers: require('../assets/images/Groomers.png'),
+  petSitters: require('../assets/images/petSitters.png'),
+  petLodges: require('../assets/images/petLodges.png'),
+  vetDoc: require('../assets/images/vetDoc.png'),
+  whatsapp:require('../assets/images/whatsapp.png'),
+  tele: require('../assets/images/tele.png'),
+  placeholder:require('../assets/images/placeholder.png')
+};
+export default commonImagePath;
