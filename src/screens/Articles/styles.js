@@ -17,10 +17,7 @@ export const styles = StyleSheet.create({
     fontSize: theme.fontSizes.mediumFont,
     textAlign: 'center',
     marginLeft: '10%',
-    marginRight: '10%',
-    width: '60%', 
-    justifyContent: 'center'
-
+    marginRight: '10%'
   },
   name: {
     color: theme.fontColors.black,
@@ -46,13 +43,11 @@ export const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
-
   header: {
     flexDirection: 'row',
     justifyContent: 'space-between',
     marginTop: '10%',
-    width: theme.screenWidth,
-    alignItems:'center'
+    width: '90%',
   },
   titleRow:{
     flexDirection:'row',
@@ -64,23 +59,23 @@ export const styles = StyleSheet.create({
       fontWeight: 'bold',
      textDecorationLine:'underline'
      },
-     view: {
-      // display: 'flex',
-      width: wp('100%'),
-      borderTopLeftRadius: 30,
-      borderTopRightRadius: 30,
-      backgroundColor: '#FFECE7',
-      padding: '5%',
-      bottom: 0,
-      // height: hp('100%'),
-      flex:1
-    },
-    viewTop: {
-      display: 'flex',
-      width: wp('100%'),
-      padding: '3%',
-      height: hp('33%'),
-    },
+  view: {
+    // display: 'flex',
+    width: wp('100%'),
+    borderTopLeftRadius: 30,
+    borderTopRightRadius: 30,
+    backgroundColor: '#FFECE7',
+    padding: '5%',
+    bottom: 0,
+    // height: hp('100%'),
+    flex:1
+  },
+  viewTop: {
+    display: 'flex',
+    width: wp('100%'),
+    padding: '3%',
+    height: hp('32%'),
+  },
   buttonText: {
     color: theme.fontColors.black,
     fontSize: theme.fontSizes.smallFontText,
@@ -101,12 +96,12 @@ export const styles = StyleSheet.create({
     textAlign: 'center',
     fontSize: theme.fontSizes.smallFont
   },
-
-  categories: {
-    flex: 1,
-    // flexDirection: 'row',
-    // flexWrap: 'wrap',
-    // justifyContent: 'space-between',
+  mostTracked: {
+    justifyContent: 'center',
+    alignItem: 'center',
+    flexDirection: 'row',
+    width: wp('95%'),
+    justifyContent: 'space-around'
   },
   category: {
     flexDirection: 'column',
@@ -116,6 +111,5 @@ export const styles = StyleSheet.create({
     padding: '1%',
     borderRadius: wp('3%'),
     elevation: 5,
-    marginBottom:'2%'
   }
 });

@@ -20,6 +20,11 @@ const commonImagePath = {
   vetDoc: require('../assets/images/vetDoc.png'),
   whatsapp:require('../assets/images/whatsapp.png'),
   tele: require('../assets/images/tele.png'),
-  placeholder:require('../assets/images/placeholder.png')
+  placeholder:require('../assets/images/placeholder.png'),
+  dog: require('../assets/images/dog.png'),
+  pet: require('../assets/images/little.png'),
+  petDoc:require('../assets/images/image.png'),
+  dogImg: require('../assets/images/puppy.png'),
+  dogVec:require('../assets/images/dogVec.png')
 };
 export default commonImagePath;

@@ -15,6 +15,7 @@ import theme from '../constants/theme';
 // Screens
 import BottomTabNavigator from './BottomTabNavigator';
 import HealthArticle from '../screens/HealthArticles';
+import { MainStack } from './StackScreens';
 
 const Stack = createStackNavigator();
 
@@ -31,7 +32,7 @@ const AppNavigator = () => {
         />
          <Stack.Screen
           name="HealthArticle"
-          component={HealthArticle}
+          component={MainStack}
           options={{ title: '', headerShown: false }}
         />
       </Stack.Navigator>

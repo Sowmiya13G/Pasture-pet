@@ -74,10 +74,10 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.shopifi"
+    namespace "com.Pasture-pet"
     defaultConfig {
         missingDimensionStrategy 'react-native-camera', 'general'
-        applicationId "com.shopifi"
+        applicationId "com.Pasture-pet"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

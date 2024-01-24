@@ -1,4 +1,4 @@
-package com.shopifi;
+package com.Pasture-pet;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

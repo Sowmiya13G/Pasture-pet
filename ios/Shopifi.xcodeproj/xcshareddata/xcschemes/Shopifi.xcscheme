@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "Shopifi.app"
-               BlueprintName = "Shopifi"
-               ReferencedContainer = "container:Shopifi.xcodeproj">
+               BuildableName = "Pasture-pet.app"
+               BlueprintName = "Pasture-pet"
+               ReferencedContainer = "container:Pasture-pet.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "ShopifiTests.xctest"
-               BlueprintName = "ShopifiTests"
-               ReferencedContainer = "container:Shopifi.xcodeproj">
+               BuildableName = "Pasture-petTests.xctest"
+               BlueprintName = "Pasture-petTests"
+               ReferencedContainer = "container:Pasture-pet.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "Shopifi.app"
-            BlueprintName = "Shopifi"
-            ReferencedContainer = "container:Shopifi.xcodeproj">
+            BuildableName = "Pasture-pet.app"
+            BlueprintName = "Pasture-pet"
+            ReferencedContainer = "container:Pasture-pet.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "Shopifi.app"
-            BlueprintName = "Shopifi"
-            ReferencedContainer = "container:Shopifi.xcodeproj">
+            BuildableName = "Pasture-pet.app"
+            BlueprintName = "Pasture-pet"
+            ReferencedContainer = "container:Pasture-pet.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
