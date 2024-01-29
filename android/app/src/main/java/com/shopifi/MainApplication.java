@@ -1,4 +1,4 @@
-package com.Pasture-pet;
+package com.PasturePet;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

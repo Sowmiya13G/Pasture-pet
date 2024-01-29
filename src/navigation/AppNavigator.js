@@ -16,7 +16,8 @@ import theme from '../constants/theme';
 import BottomTabNavigator from './BottomTabNavigator';
 import HealthArticle from '../screens/HealthArticles';
 import { MainStack } from './StackScreens';
-
+import CheckOut from '../screens/CheckOut';
+import Success from '../screens/Success';
 const Stack = createStackNavigator();
 
 // App navigator
@@ -33,6 +34,16 @@ const AppNavigator = () => {
          <Stack.Screen
           name="HealthArticle"
           component={MainStack}
+          options={{ title: '', headerShown: false }}
+        />
+         <Stack.Screen
+          name="CheckOut"
+          component={CheckOut}
+          options={{ title: '', headerShown: false }}
+        />
+        <Stack.Screen
+          name="Success"
+          component={Success}
           options={{ title: '', headerShown: false }}
         />
       </Stack.Navigator>

@@ -25,6 +25,16 @@ const commonImagePath = {
   pet: require('../assets/images/little.png'),
   petDoc:require('../assets/images/image.png'),
   dogImg: require('../assets/images/puppy.png'),
-  dogVec:require('../assets/images/dogVec.png')
+  dogVec:require('../assets/images/dogVec.png'),
+  coupon:require('../assets/images/coupon.png'),
+  fur: require('../assets/images/fur.png'),
+  success: require('../assets/images/success.png'),
+  oops:require('../assets/images/oops.png'),
+  omega:require('../assets/images/omega.png'),
+  percentage:require('../assets/images/percentage.png'),
+  count:require('../assets/images/count.png'),
+  location:require('../assets/images/Location.png'),
+  count1:require('../assets/images/count1.png'),
+
 };
 export default commonImagePath;

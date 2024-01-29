@@ -48,6 +48,7 @@ const fontColors = {
   black: '#000000',
   textBlue: '#006C97',
   secondaryOrange: '#FF8C6D',
+  gray: '#CCCCCC',
 };
 
 export default {

@@ -74,10 +74,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.Pasture-pet"
+    namespace "com.PasturePet"
     defaultConfig {
-        missingDimensionStrategy 'react-native-camera', 'general'
-        applicationId "com.Pasture-pet"
+        applicationId "com.PasturePet"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

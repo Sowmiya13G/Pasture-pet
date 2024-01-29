@@ -67,7 +67,7 @@ const strings = {
   unlock: 'Unlock offers with coupon codes',
   soldOut: 'Sold out',
   available: 'Only 4 Available',
-  detailsOfOmega: 'Details',
+  detailsOfOmega: 'Omega Tablet for Adult' + '\n' + 'Dog (250g)',
   subTotal: 'Subtotal',
   taxAndDelivery: 'Taxes and delivery',
   toPay: 'To Pay',
@@ -81,7 +81,7 @@ const strings = {
   applyCouponText: 'Apply Coupon',
   newAddress: 'New Address',
   home: 'Home',
-  homeText: 'Random address for Home saved in the app 12th street random location address',
+  homeText: 'Random address for Home saved in the app' + '\n' + '12th street random location address',
   work: 'Work',
   friendHouse: "Friend's House",
   reviewOrder: 'Review Order',
@@ -94,7 +94,11 @@ const strings = {
   add: 'Add',
   addNewAddress: 'Add New Address',
   selectPayment: 'Select Payment Method',
-
+  pay: 'Pay',
+  viewOrder:'View Order',
+  thanks:'Thanks for your purchase, Jammy!',
+  fetching:"We’re fetching your order.",
+  orderNo:'Order Number: 000000#'
 };
 
 const placeholders = {
